@@ -199,4 +199,18 @@
 
             Buka file dengan nama house_price_analysis.ipynb.
 
-    
+    🔮 Future Improvements
+
+        Beberapa pengembangan yang bisa dilakukan:
+
+            1. hyperparameter tuning
+            2. menggunakan XGBoost
+            3. membuat web app menggunakan Streamlit
+            4. menambahkan feature engineering
+            5. menggunakan dataset yang lebih besar
+
+    👨‍💻 Author
+
+        Project ini dibuat sebagai latihan dan portfolio Data Science.
+
+        Name: Fabian Attala Koswara
